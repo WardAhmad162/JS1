@@ -1,0 +1,10 @@
+.demo{
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+.vip{
+    background-color: gold;
+    width: fit-content;
+    color: white;
+    border-radius: 16px;
+}
